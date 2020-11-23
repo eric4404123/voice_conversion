@@ -1,4 +1,4 @@
-## Voice conversion demo website
+# Voice conversion demo website
 
 <h2 id="speech-sample">Speech sample</h2>
 

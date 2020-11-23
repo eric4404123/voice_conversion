@@ -24,7 +24,7 @@
 </audio>
 <h5 id="target-2">target</h5>
 <audio controls="controls">
-<source type="audio/wav" src="res/src/S-21.wav.wav" />&lt;/source&gt;
+<source type="audio/wav" src="res/src/S-21.wav" />&lt;/source&gt;
 </audio>
 <h5 id="converted-2">converted</h5>
 <audio controls="controls">

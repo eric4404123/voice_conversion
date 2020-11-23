@@ -1,7 +1,5 @@
 ## Voice conversion demo website
 
-
-
 <h2 id="speech-sample">Speech sample</h2>
 
 <h3 id="female-to-female">Female to female</h3>

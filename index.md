@@ -17,7 +17,6 @@
 </audio>
 
 
-<h3 id="female-to-female">Female to female</h3>
 <h5 id="source-2">source</h5>
 <audio controls="controls">
 <source type="audio/wav" src="res/src/Combine003_Sync086_no_speaker_173.53-175.45.wav" />&lt;/source&gt;

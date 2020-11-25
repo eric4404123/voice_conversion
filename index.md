@@ -54,7 +54,7 @@
 
 ##### converted
 <audio controls="controls">
-<source type="audio/wav" src="res/src/Combine003_Sync298_no_TSI.wav" /></source>
+<source type="audio/wav" src="res/src/Combine003_Sync298_TSI.wav" /></source>
 </audio>
 
 
@@ -109,7 +109,7 @@
 
 ##### source
 <audio controls="controls">
-<source type="audio/wav" src="res/src/S-2.wav.wav" /></source>
+<source type="audio/wav" src="res/src/S-2.wav" /></source>
 </audio>
 
 ##### converted
@@ -121,7 +121,7 @@
 
 ##### source
 <audio controls="controls">
-<source type="audio/wav" src="res/src/S-8.wav.wav" /></source>
+<source type="audio/wav" src="res/src/S-8.wav" /></source>
 </audio>
 
 ##### converted
@@ -133,7 +133,7 @@
 
 ##### source
 <audio controls="controls">
-<source type="audio/wav" src="res/src/S-25.wav.wav" /></source>
+<source type="audio/wav" src="res/src/S-25.wav" /></source>
 </audio>
 
 ##### converted

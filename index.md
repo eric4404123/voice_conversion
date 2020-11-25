@@ -166,10 +166,10 @@
 
 ##### target 
 <audio controls="controls">
-<source type="audio/wav" src="res/tar/p229_179.wav"></source>
+<source type="audio/wav" src="res/src/p229_179.wav"></source>
 </audio>
 
 ##### converted 
 <audio controls="controls">
-<source type="audio/wav" src="res/con/p226_to_229.wav"></source>
+<source type="audio/wav" src="res/src/p226_to_229.wav"></source>
 </audio>

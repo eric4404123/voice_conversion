@@ -155,7 +155,7 @@
 
 
 
-## Chinesr to English
+## Chinese to English
 
 <h3 id="female-to-female">Female to female(Tsai Ing-wen)</h3>
 
@@ -166,7 +166,7 @@
 
 ##### source 
 <audio controls="controls">
-<source type="audio/wav" src="res/src/p226_216.wav"></source>
+<source type="audio/wav" src="res/src/p228_219.wav"></source>
 </audio>
 
 ##### converted 

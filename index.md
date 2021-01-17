@@ -14,7 +14,7 @@
 
 | 預設對齊 | 靠左對齊 | 靠右對齊 | 置中對齊 |
 | ----- | :----- | -----: | :-----: |
-| Text1 | Text2 | Text3 | Text4 |
+| <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync061.wav" /></source></audio>| Text2 | Text3 | Text4 |
 | Text5 | Text6 | Text7 | Text8 |
 | Text9 | Text10 | Text11 | Text12 |
 

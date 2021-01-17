@@ -14,7 +14,7 @@
 
 | 左对齐 | 右对齐 | 居中对齐 |
 | :-----| ----: | :----: |
-|<audio controls="controls"><source type="audio/wav" src="res/src/S-12.wav" /></source></audio>| 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
 | 单元格 | 单元格 | 单元格 |
 ##### source
 <audio controls="controls">

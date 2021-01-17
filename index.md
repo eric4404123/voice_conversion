@@ -15,7 +15,7 @@
 | Source | Converted |
 | ----- | ----- |
 | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync061.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/Com03_061_to_tsi_M_.wav" /></source></audio> |
-| <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync086_no_speaker_173.53-175.45.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src=res/src/Com03_086_to_tsi_M_.wav /></source></audio> |
+| <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync086_no_speaker_173.53-175.45.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/Com03_086_to_tsi_M_.wav" /></source></audio> |
 | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync284.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync284_TSI.wav" /></source></audio> |
 | Text9 | Text10 |
 | Text9 | Text10 |

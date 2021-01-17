@@ -11,6 +11,11 @@
 <source type="audio/wav" src="res/src/S-12.wav" /></source>
 </audio>
 
+
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
 ##### source
 <audio controls="controls">
 <source type="audio/wav" src="res/src/Combine003_Sync061.wav" /></source>

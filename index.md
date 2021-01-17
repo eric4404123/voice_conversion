@@ -12,21 +12,11 @@
 </audio>
 
 
-| 預設對齊 | 靠左對齊 | 靠右對齊 | 置中對齊 |
-| ----- | :----- | -----: | :-----: |
-| <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync061.wav" /></source></audio>| Text2 | Text3 | Text4 |
-| Text5 | Text6 | Text7 | Text8 |
-| Text9 | Text10 | Text11 | Text12 |
-
-##### source
-<audio controls="controls">
-<source type="audio/wav" src="res/src/Combine003_Sync061.wav" /></source>
-</audio>
-
-##### converted
-<audio controls="controls">
-<source type="audio/wav" src="res/src/Com03_061_to_tsi_M_.wav" /></source>
-</audio>
+| Source | Converted |
+| ----- | ----- |
+| <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync061.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/Com03_061_to_tsi_M_.wav" /></source></audio> |
+| Text5 | Text6 |
+| Text9 | Text10 |
 
 
 

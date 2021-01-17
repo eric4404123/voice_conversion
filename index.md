@@ -30,7 +30,7 @@
 | Source | Converted |
 | ----- | ----- |
 | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync331.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync331_no_TSI.wav" /></source></audio> |
-| <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync725.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="Combine003_Sync725_TSI.wav" /></source></audio> |
+| <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync725.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync725_TSI.wav" /></source></audio> |
 | <audio controls="controls"><source type="audio/wav" src="res/src/S-2.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/S-2_TSI.wav" /></source></audio> |
 | <audio controls="controls"><source type="audio/wav" src="res/src/S-8.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/S-8_TSI.wav" /></source></audio> |
 | <audio controls="controls"><source type="audio/wav" src="res/src/S-25.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/S-25_TSI.wav" /></source></audio> |

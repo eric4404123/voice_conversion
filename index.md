@@ -31,7 +31,7 @@
 | ----- | ----- | ----- |
 | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync331.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync331_no_TSI.wav" /></source></audio> | 我真正足愛我的妹妹 |
 | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync725.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync725_TSI.wav" /></source></audio> | 講一句「拍斷手骨顛倒勇」是誠（tsiann）好的鼓勵 |
-| <audio controls="controls"><source type="audio/wav" src="res/src/S-2.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/S-2_TSI.wav" /></source></audio> | 阿爸摸我的頭鬃講 |
+| <audio controls="controls"><source type="audio/wav" src="res/src/S-2.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/S-2_TSI.wav" /></source></audio> | 阿爸摸我的頭鬃講，抾著物件愛緊還--人，你愛知影，拍散的鴨仔佮伊的主人攏真著急! |
 | <audio controls="controls"><source type="audio/wav" src="res/src/S-8.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/S-8_TSI.wav" /></source></audio> | 毋閣（koh），今仔日我欲（beh）講的毋是電扇風抑（iah）是La-jí-o̍oh ， 是欲講阮阿爸彼台掛Lài-tah的鐵馬 |
 | <audio controls="controls"><source type="audio/wav" src="res/src/S-25.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/S-25_TSI.wav" /></source></audio> | 月娘哪會無愛小覕（bih）--一下，規路一直綴（tuè）阮行，予阿爸騎赫（hiah）緊，害我心肝咇噗彩（phi̍h-pho̍k-tshái |
 | <audio controls="controls"><source type="audio/wav" src="res/src/S-59.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/S-59_TSI.wav" /></source></audio> | 閣有七十歲的阿公放掉日本的空課，來到牛睏山頂咧修理破厝。逐家攏是土地的囝兒，無分國籍。|

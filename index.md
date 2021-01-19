@@ -1,6 +1,6 @@
 ## Welcome to Multi-target voice conversion and cross-language demo website
 
-<h2 id="speech-sample" color="#9A484C">Speech sample</h2>
+<h2 color="#9A484C">Speech sample</h2>
 
 <h2 id="C2T" style="color:#9A484C">Chinese to Taiwanese</h2>
 

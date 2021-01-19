@@ -29,7 +29,7 @@
 
 | Source | Converted | 台語文字 |
 | ----- | ----- | ----- |
-| <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync331.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync331_no_TSI.wav" /></source></audio> | 我真正足愛我的妹妹｜
+| <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync331.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync331_no_TSI.wav" /></source></audio> | 我真正足愛我的妹妹
 | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync725.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/Combine003_Sync725_TSI.wav" /></source></audio> | 講一句「拍斷手骨顛倒勇」是誠（tsiann）好的鼓勵|
 | <audio controls="controls"><source type="audio/wav" src="res/src/S-2.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/S-2_TSI.wav" /></source></audio> | 阿爸摸我的頭鬃講｜
 | <audio controls="controls"><source type="audio/wav" src="res/src/S-8.wav" /></source></audio> | <audio controls="controls"><source type="audio/wav" src="res/src/S-8_TSI.wav" /></source></audio> | 毋閣（koh），今仔日我欲（beh）講的毋是電扇風抑（iah）是La-jí-o̍oh ， 是欲講阮阿爸彼台掛Lài-tah的鐵馬｜

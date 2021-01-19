@@ -2,7 +2,7 @@
 
 <h2 id="speech-sample" color=#9A484C>Speech sample</h2>
 
-<h2 id="speech-sample" color=#9A484C>Chinese to Taiwanese</h2>
+<h2 id="C2T" color=#9A484C>Chinese to Taiwanese</h2>
 
 <h3 id="female-to-female" color=#9A484C>Female to female(Tsai Ing-wen)</h3>
 
@@ -39,7 +39,7 @@
 
 ## Chinese to English
 
-<h3 id="female-to-female">Female to female(Tsai Ing-wen)</h3>
+<h3 id="female-to-female2">Female to female(Tsai Ing-wen)</h3>
 
 ##### target 
 <audio controls="controls">

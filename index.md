@@ -68,4 +68,14 @@
 
 <h2 id="let space"> </h2>
 
+<h3 id="training nec">[訓練所需之程式]</h3>
+
+<h3 id="conversion nec">[合成所需之程式]</h3> 
+
+<h3 id="conversion nec">[第五章所有轉換之語音範例]</h3>
+
+[訓練所需之程式]:https://colab.research.google.com/drive/1nUdWpGk0tGdwtj7mxpirmvQoKG8yKMRv?usp=sharing
+[合成所需之程式]:https://colab.research.google.com/drive/1dFtmeul4yv7VN7KNR5yfpiAsptcuLMaR
+[第五章所有轉換之語音範例]:https://www.dropbox.com/sh/fp9f9sbngr8u24o/AACy_zGoQJVuqg53rVozHqDua?dl=0
+
 <h6 id="ccMark">Copyright 2020 Chang Gung University Department of Computer Science Audio, Speech, Language and Pattern Processing LAB</h6>
